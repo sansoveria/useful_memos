@@ -1,0 +1,6 @@
+# create project
+git init
+git add [@FILE_NAME]
+git commit -m "[message]"
+git remote add origin [@REMOTE_STORAGE_ADDRESS]
+
